@@ -13,6 +13,7 @@
     "@types/node": "16.7.13",
     "@types/react": "18.0.0",
     "@types/react-dom": "18.0.0",
+    "@types/uuid": "^10.0.0",
     "babel-jest": "27.4.2",
     "babel-loader": "8.2.3",
     "babel-plugin-named-asset-import": "0.3.8",
@@ -87,6 +88,7 @@
     ]
   },
   "devDependencies": {
+    "@formkit/auto-animate": "^0.8.2",
     "@types/styled-components": "5.1.26",
     "babel-plugin-styled-components": "2.0.7"
   },
